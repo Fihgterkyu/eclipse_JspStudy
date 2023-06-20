@@ -22,5 +22,6 @@
 		</script>
 	*/
 	%>
+	<%=str%>
 </body>
 </html>
