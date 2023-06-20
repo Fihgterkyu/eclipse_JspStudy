@@ -22,6 +22,11 @@
 		</script>
 	*/
 	%>
+<<<<<<< HEAD
 	<%=str%>
+=======
+	<hr>
+	str의 값 출력 = <%=str%>
+>>>>>>> refs/heads/hotfix
 </body>
 </html>
